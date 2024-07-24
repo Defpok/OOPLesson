@@ -1,0 +1,7 @@
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\bin\Debug\GemeProjeckLessonsWarning.exe.config
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\bin\Debug\GemeProjeckLessonsWarning.exe
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\bin\Debug\GemeProjeckLessonsWarning.pdb
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\obj\Debug\GemeProjeckLessonsWarning.csproj.AssemblyReference.cache
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\obj\Debug\GemeProjeckLessonsWarning.csproj.CoreCompileInputs.cache
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\obj\Debug\GemeProjeckLessonsWarning.exe
+G:\new VS\GemeProjeckLessonsWarning\GemeProjeckLessonsWarning\obj\Debug\GemeProjeckLessonsWarning.pdb
